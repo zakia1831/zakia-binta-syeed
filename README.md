@@ -37,4 +37,4 @@ Arduino, Microcontroller Programming, Sensor Interfacing, Motor Control, Robot D
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/zakia-binta-syeed/
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
+- GitHub: https://github.com/zakia1831
